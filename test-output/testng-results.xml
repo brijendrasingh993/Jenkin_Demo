@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-22T17:08:07 IST" name="Default suite" finished-at="2023-08-22T17:08:42 IST" duration-ms="34413">
+  <suite started-at="2023-08-22T17:23:38 IST" name="Default suite" finished-at="2023-08-22T17:23:57 IST" duration-ms="18740">
     <groups>
     </groups>
-    <test started-at="2023-08-22T17:08:07 IST" name="Default test" finished-at="2023-08-22T17:08:42 IST" duration-ms="34413">
+    <test started-at="2023-08-22T17:23:38 IST" name="Default test" finished-at="2023-08-22T17:23:57 IST" duration-ms="18740">
       <class name="com.jenkin_demo.test.LoginLogout">
-        <test-method signature="loginLogoutActiTime()[pri:0, instance:com.jenkin_demo.test.LoginLogout@79e2c065]" started-at="2023-08-22T17:08:07 IST" name="loginLogoutActiTime" finished-at="2023-08-22T17:08:42 IST" duration-ms="34313" status="PASS">
+        <test-method signature="loginLogoutActiTime()[pri:0, instance:com.jenkin_demo.test.LoginLogout@16ec5519]" started-at="2023-08-22T17:23:38 IST" name="loginLogoutActiTime" finished-at="2023-08-22T17:23:57 IST" duration-ms="18654" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginLogoutActiTime -->
