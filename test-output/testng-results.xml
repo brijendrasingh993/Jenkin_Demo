@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-22T16:46:37 IST" name="Default suite" finished-at="2023-08-22T16:47:14 IST" duration-ms="37138">
+    <groups>
+    </groups>
+    <test started-at="2023-08-22T16:46:37 IST" name="Default test" finished-at="2023-08-22T16:47:14 IST" duration-ms="37138">
+      <class name="com.jenkin_demo.test.LoginLogout">
+        <test-method signature="loginLogoutActiTime()[pri:0, instance:com.jenkin_demo.test.LoginLogout@79e2c065]" started-at="2023-08-22T16:46:37 IST" name="loginLogoutActiTime" finished-at="2023-08-22T16:47:14 IST" duration-ms="37053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogoutActiTime -->
+      </class> <!-- com.jenkin_demo.test.LoginLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
